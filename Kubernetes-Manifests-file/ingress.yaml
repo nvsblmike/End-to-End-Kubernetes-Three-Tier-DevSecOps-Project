@@ -11,7 +11,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-    - host: madhumadeep.world
+    - host: threetier.madhumadeep.world
       http:
         paths:
           - path: /api
