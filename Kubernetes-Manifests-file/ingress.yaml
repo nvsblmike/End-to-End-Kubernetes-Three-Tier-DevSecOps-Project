@@ -11,7 +11,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-    - host: madhumadeep.world
+    - host: test.allofhealth.africa
       http:
         paths:
           - path: /api
